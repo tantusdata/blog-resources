@@ -1,0 +1,5 @@
+# Do not commit any log files.
+*.log
+
+# Scheduler logs may not have am extension.
+scheduler/latest

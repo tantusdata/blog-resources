@@ -1,0 +1,4 @@
+apache-airflow==2.6.2
+apache-airflow-providers-apache-hdfs==4.1.0
+apache-airflow-providers-apache-spark==4.1.1
+apache-airflow-providers-sftp==4.3.1

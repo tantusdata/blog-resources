@@ -1,0 +1,8 @@
+# Python virtual environment
+.venv/
+
+# IDE files of IntelliJ IDEA
+.idea/
+
+# MacOSX garbage files
+.DS_Store
