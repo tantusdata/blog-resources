@@ -1,0 +1,15 @@
+apiVersion: 1
+datasources:
+   -  name: "influxdb"
+      type: "influxdb"
+      typeName: "InfluxDB"
+      url: "http://influxdb:8086"
+      user: "airflow-tig"
+      is_default: true
+      access: proxy
+      jsonData:
+         dbName: airflow_tig
+         tlsSkipVerify: true
+      secureJsonData:
+         token: QWGM4w8fnahXdsS3
+         password: QWGM4w8fnahXdsS3
